@@ -1,2 +1,3 @@
 #!/usr/bin/env python
-print 'hellow world!'
+if __name__=='__main__':
+    print 'hellow world!'
